@@ -1,15 +1,8 @@
 # Hi there, I'm MD Arif! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Open+Source+Enthusiast;Linux+Lover;Always+Contributing;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+Page!;Love+Open+Source;Love+Linux" alt="Typing SVG" />
 </div>
-
----
-
-## 🚀 About Me
-
-- 🐧 Linux enthusiast, loves to see power of open source
-- 🌱 Passionate about contributing to things i like and things i can do
 
 ---
 
@@ -46,14 +39,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabamdarif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabamdarif&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabamdarif&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
 ---
