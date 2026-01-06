@@ -34,7 +34,12 @@
 ---
 
 ## 📊 GitHub Analytics
-![](https://github-readme-stats-2345678.vercel.app/api?username=sabamdarif&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats-2345678.vercel.app/api/top-langs/?username=sabamdarif&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<div align="center">
+  
+![](https://github-readme-stats-2345678.vercel.app/api?username=sabamdarif&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats-2345678.vercel.app/api/top-langs/?username=sabamdarif&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sabamdarif&theme=tokyonight&hide_border=false)
+
+</div>
 
 ---
