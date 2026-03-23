@@ -27,12 +27,24 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Tools & Platforms
-![Fedora](https://img.shields.io/badge/-Fedora%20BTW-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![CachyOS](https://img.shields.io/badge/-CachyOS-00BFFF?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 </div>
+
+---
+
+<details>
+<summary>📦 Archived</summary>
+<br>
+
+![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![VSCode](https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+
+</details>
 
 ---
 
